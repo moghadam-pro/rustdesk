@@ -55,3 +55,12 @@ vcpkg_installed
 flutter/lib/generated_plugin_registrant.dart
 libsciter.dylib
 flutter/web/
+
+# Cross-platform OS metadata
+._*
+.Spotlight-V100
+.Trashes
+[Tt]humbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
